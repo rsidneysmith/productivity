@@ -1,2 +1,2 @@
 # productivity
-A place for productivity manifestos and related charters.
+A place for productivity manifestos, guides, and related charters.
